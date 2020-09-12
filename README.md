@@ -9,4 +9,4 @@ Free:
 Paid:
 
 - [Alfred](https://www.alfredapp.com/)
-- [Radio Silence](https://radiosilenceapp.com/) - get infinite free trials
+- [Radio Silence](https://radiosilenceapp.com/)
