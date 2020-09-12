@@ -2,7 +2,7 @@
 
 Free:
 
-- [Itsycal](https://www.mowglii.com/itsycal/) - better menubar calendar
+- [Itsycal](https://www.mowglii.com/itsycal/) - better menubar calendar (`E, MMM d h:mm a`)
 - [Dozer](https://github.com/Mortennn/Dozer) - toggle show/hide of menu bar icons
 - [Rectangle](https://github.com/rxhanson/Rectangle) - window management 
 
