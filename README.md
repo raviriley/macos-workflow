@@ -5,6 +5,7 @@ Free:
 - [Itsycal](https://www.mowglii.com/itsycal/) - better menubar calendar (`E, MMM d h:mm a`)
 - [Dozer](https://github.com/Mortennn/Dozer) - toggle show/hide of menu bar icons
 - [Rectangle](https://github.com/rxhanson/Rectangle) - window management
+- [AltTab](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [QuickLook Code Syntax Highlighting](https://github.com/anthonygelibert/QLColorCode)
 - [QuickLook text files](https://github.com/whomwah/qlstephen)
 - [QuickLook Markdown files](https://github.com/toland/qlmarkdown)
