@@ -15,6 +15,7 @@ Downloaded workflows: (bold are the super useful ones)
 - [Stopwatch](https://github.com/jamiebullock/alfred-workflows/blob/master/Stopwatch.alfredworkflow)
 - [**TemporaryEmail**](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - get a temp email address to clipboard and open its inbox with one command
 - [Terminal Finder](https://github.com/LeEnno/alfred-terminalfinder) - open current terminal directory in finder or vice versa
+- [Time Zones](https://github.com/jaroslawhartman/TimeZones-Alfred) - view chosen time zones and convert times between time zones
 
 Workflows I made:
 - fn Toggle - toggle fn to either reveal F1-F12 on the touch bar, or expand the control strip
