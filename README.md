@@ -20,6 +20,7 @@ Terminal
 - [The Fuck](https://github.com/nvbn/thefuck) - correct mistakes in commands
 - [Zsh Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [Zsh Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [neofetch](https://github.com/dylanaraps/neofetch)
 
 ### Paid:
 
