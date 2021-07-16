@@ -1,4 +1,5 @@
 # macos-workflow
+###### (list assumes you have [homebrew](https://brew.sh/) installed)
 
 ### Free:
 
